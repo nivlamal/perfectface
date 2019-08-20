@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/perfectface/static/css/main.6db874d3.chunk.css",
+    "main.js": "/perfectface/static/js/main.9425c9dd.chunk.js",
+    "main.js.map": "/perfectface/static/js/main.9425c9dd.chunk.js.map",
+    "runtime~main.js": "/perfectface/static/js/runtime~main.f515fd0a.js",
+    "runtime~main.js.map": "/perfectface/static/js/runtime~main.f515fd0a.js.map",
+    "static/js/2.68c0fc53.chunk.js": "/perfectface/static/js/2.68c0fc53.chunk.js",
+    "static/js/2.68c0fc53.chunk.js.map": "/perfectface/static/js/2.68c0fc53.chunk.js.map",
+    "index.html": "/perfectface/index.html",
+    "precache-manifest.bf3e51d72b1aa2b8756339a31b616c34.js": "/perfectface/precache-manifest.bf3e51d72b1aa2b8756339a31b616c34.js",
+    "service-worker.js": "/perfectface/service-worker.js",
+    "static/css/main.6db874d3.chunk.css.map": "/perfectface/static/css/main.6db874d3.chunk.css.map"
+  }
+}
